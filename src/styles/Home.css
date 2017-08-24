@@ -1,0 +1,20 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.homeContainer {
+  padding: 7% 0 7% 0;
+  background-color: #1e88e5;
+}
+
+.homeMyName {
+  text-align: center;
+  font-size: 45pt;
+  margin: 0;
+  color: white;
+}
+
+.homeMyTitle {
+  text-align: center;
+  color: white;
+}
